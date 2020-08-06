@@ -1,0 +1,19 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: green;
+}
+
+button{
+    height:40px;
+    width:180px;
+    margin-top: 2vh;
+    background-color: rgb(153, 153, 153);
+    color: black;
+    border: none;
+    border-radius: 1vh;
+  }
